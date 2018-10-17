@@ -1,0 +1,36 @@
+hover intent
+إشعار "لقد تم اضافة منتج الى السلة ..." اعمل له توقيت او غير مكان ظهوره تحت الـ crumb grade 
+اعمل السلايدر كما حق الفيديو "يتوقف عن التبديل التلقائي عندما يتم النقر على صورة معينة" (done)
+بدل  "تفاصيل أكثر ..." اجعلها "اعرض التفاصيل" والباقيات الصالحات (done)
+إضافة نص يوضح أن الصور في صفحة الإندكس هي صور الفئات (done)
+إضافة FontAwesome إلى الـlables and buttons (done)
+أعمل tooltip(for more detials) for the products on products.php (done)
+stop auto move on the model of products.php (done)
+
+في فورم انشاء حساب غير الإنبوت حق الهاتف إلى tell type (done)
+في فورم انشاء حساب غير الإنبوت حق رقم البيت إلى إدخال عددي  فقط (no)
+
+رسالة الخطأ عند الإدخال في الفورمات حق تسجيل الدخول أو إنشاء حساب
+
+باقي صفحة حسابي
+
+
+
+ammar:
+[1] modify the button (add to cart) in the product.php page and the search.php page to add only one product when click it more then once.
+[2] myAccount.php page
+[2] checkout.php page
+
+muath: 
+[1] choose the color, size, position of the fontAwesome icons
+
+As3ad:
+[1] names, describes the proudcts and make;
+
+Ahmed:
+[1] provide more images about each product if possible.
+
+new idea:
+[1] add the name (as a link) of the owner in each product in products.php page and search.php page, and desing new page for the each owner. 
+[2] checkout.php page in the videos in the video (06_02_formStructure).
+[3] there is no login.php page and createAccount.php page in the videos

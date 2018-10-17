@@ -1,0 +1,59 @@
+.header,
+.header .container,
+.navbar-default,
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus,
+.footer,
+.footer .row{
+    background-color:#DDD;
+}
+
+
+.header a,
+.header .cart:visited,
+.navbar-default .navbar-nav>li>a,
+.acitveI,
+.navbar-default .navbar-nav>li>a:hover i{
+    color: #000 !important;
+}
+
+.btn{
+    background-color: #c11010;
+    border: 1px solid #f16102;
+}
+
+a,
+.list-unstyled a,
+.footer input.btn:hover
+{
+    color: #c11010;
+}
+
+
+.header i{
+    color:#c11010;
+}
+
+.btn-primary:hover{
+color: #fff;
+    background-color: #fd5151;
+    border-color: #c11010;
+}
+
+
+.alert-info{
+    color: #c11010;
+    background-color: #DDD;
+    border-color: #c11010;
+}
+
+.footer .copy{
+    background-color: #c11010;
+}
+.saled:after{
+        background-color: #f16102;
+}
+
+.footer input.btn{
+    color: #fff;
+    background: #c11010;
+}
